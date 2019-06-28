@@ -5,3 +5,4 @@
 <br>Agree a physical/virtual meetup with fellows.
 <br>Continue watching the lectures of the nanodegree.
 
+[2019-06-28]
