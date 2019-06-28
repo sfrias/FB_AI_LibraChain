@@ -3,12 +3,3 @@
 <br>Took the #60daysofudacity pledge.
 <br>Agree a physical/virtual meetup with fellows.
 <br>Continue watching the lectures of the nanodegree.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-[Day 01](https://github.com/sfrias/FB_AI_LibraChain/tree/master/SecPrivAI/60days#day-01-2019-06-28)
