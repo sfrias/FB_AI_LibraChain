@@ -4,4 +4,4 @@
 
 SecPrivAI/ -> Notebooks about secure and private AI, and Libra initial deployments
 
-60days/ #60daysofudacity pledge activities
+60days/ -> #60daysofudacity pledge activities
