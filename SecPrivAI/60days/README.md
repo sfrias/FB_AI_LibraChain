@@ -6,3 +6,6 @@ Took the #60daysofudacity pledge.
 ## Day 02 [2019-06-29](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day02/README.md)
 After a meetup we take break. When we come back, the children had been playing with the markers<br>
 [look what they have done](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day02/Day2_Img_Resampled.jpg)
+## Day 03 [2019-06-30](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day03/README.md)
+Rearrange Concepts and Data Model parameters.
+<br>See one Algebra video for foundations. Refresher.
