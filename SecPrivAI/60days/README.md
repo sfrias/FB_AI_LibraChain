@@ -11,5 +11,5 @@ Rearrange Concepts and Data Model parameters.
 <br>See one Algebra video for foundations. Refresher.
 ## Day 04 [2019-07-01](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day04/README.md)
 Make an Algebra&Calculus scheme, make some exercises about conditioned probabilities.
-Retake Lesson 2 and start Lesson 3
+<br>Retake Lesson 2 and start Lesson 3
 
