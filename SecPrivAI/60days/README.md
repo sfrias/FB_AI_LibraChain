@@ -10,7 +10,6 @@ After a meetup we take break. When we come back, the children had been playing w
 Rearrange Concepts and Data Model parameters.
 <br>See one Algebra video for foundations. Refresher.
 ## Day 04 [2019-07-01](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day04/README.md)
-:trumpet: *DAY 4 of 60:* #60daysofudacity #UdacityFacebookScholar
 Make an Algebra&Calculus scheme, make some exercises about conditioned probabilities.
 Retake Lesson 2 and start Lesson 3
 
