@@ -12,4 +12,7 @@ Rearrange Concepts and Data Model parameters.
 ## Day 04 [2019-07-01](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day04/README.md)
 Make an Algebra&Calculus scheme, make some exercises about conditioned probabilities.
 <br>Retake Lesson 2 and start Lesson 3
-
+## Day 05 [2019-07-02](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day05/README.md)
+Retake  Classification Problems with Scores
+<br>Convert Scores to MSE to binary Classification problems.
+<br>Convert Scores to probability Distribution.
