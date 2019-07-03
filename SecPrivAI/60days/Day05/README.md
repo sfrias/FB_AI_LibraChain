@@ -1,2 +1,3 @@
-Make an Algebra&Calculus scheme, make some exercises about conditioned probabilities.
-<br>Retake Lesson 2 and start Lesson 3
+Retake  Classification Problems with Scores
+<br>Convert Scores to MSE to binary Classification problems.
+<br>Convert Scores to probability Distribution.
