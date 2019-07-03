@@ -16,3 +16,7 @@ Make an Algebra&Calculus scheme, make some exercises about conditioned probabili
 Retake  Classification Problems with Scores
 <br>Convert Scores to MSE to binary Classification problems.
 <br>Convert Scores to probability Distribution.
+## Day 06 [2019-07-03](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day06/README.md)
+Retake Calculus derivative foundations
+<br>Make numerical calculation for derivative continuous function
+<br>How to avoid indetermination points on numerical derivatives
