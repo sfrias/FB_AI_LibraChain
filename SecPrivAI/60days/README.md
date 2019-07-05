@@ -20,3 +20,8 @@ Retake  Classification Problems with Scores
 Retake Calculus derivative foundations
 <br>Make numerical calculation for derivative continuous function
 <br>How to avoid indetermination points on numerical derivatives
+## Day 06 [2019-07-04](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day07/README.md)
+Retake Calculus numerical derivative foundations
+<br>Numerical Options Minimum calculation for Loss Functions
+<br>Simpsons interpolation to find Zero value for Loss function partial derivatives.
+<br>Falsi Rule interpolation to find Zero value for Loss function partial derivatives.
