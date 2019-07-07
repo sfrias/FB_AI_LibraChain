@@ -35,5 +35,5 @@ Practical evaluation of loss functions on training epochs(I)
 <br>basemap for maps, networkx for nets.
 ## Day 10 [2019-07-07](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day10/README.md)
 Practical evaluation of loss functions on training epochs(II)
-<br>gnuplot and vpython with pyopengl to see/update 3D loss functions.
-<br>mayavi as pro tool to visualize with high resolution/movement.
+<br>gnuplot and vpython with pyopengl to see/update 3D loss functions
+<br>mayavi as pro tool to visualize with high resolution/movement
