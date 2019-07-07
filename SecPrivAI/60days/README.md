@@ -29,3 +29,11 @@ Retake Calculus numerical derivative foundations
 Calculus numerical derivative foundations
 <br>Newton-Rapson method for numerical calculations
 <br>Improvement method. Von Mises method.
+## Day 09 [2019-07-06](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day09/README.md)
+Practical evaluation of loss functions on training epochs(I)
+<br>matplotlib, seaborn, pandas
+<br>basemap for maps, networkx for nets.
+## Day 10 [2019-07-07](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day10/README.md)
+Practical evaluation of loss functions on training epochs(II)
+<br>gnuplot and vpython with pyopengl to see/update 3D loss functions.
+<br>mayavi as pro tool to visualize with high resolution/movement.
