@@ -37,5 +37,5 @@ Practical evaluation of loss functions on training epochs(I)
 Practical evaluation of loss functions on training epochs(II)
 <br>gnuplot and vpython with pyopengl to see/update 3D loss functions
 <br>mayavi as pro tool to visualize with high resolution/movement
-## Day 10 [2019-07-08](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day11/README.md)
+## Day 11 [2019-07-08](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day11/README.md)
 Error loss functions scheme. Take care between clasification types
