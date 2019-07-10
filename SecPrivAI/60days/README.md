@@ -39,3 +39,5 @@ Practical evaluation of loss functions on training epochs(II)
 <br>mayavi as pro tool to visualize with high resolution/movement
 ## Day 11 [2019-07-08](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day11/README.md)
 Error loss functions scheme. Take care between clasification types
+## Day 12 [2019-07-09](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day12/README.md)
+Transfer learning exercises.Going beyond
