@@ -41,3 +41,5 @@ Practical evaluation of loss functions on training epochs(II)
 Error loss functions scheme. Take care between clasification types
 ## Day 12 [2019-07-09](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day12/README.md)
 Transfer learning exercises.Going beyond
+## Day 13 [2019-07-11](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day13/README.md)
+Transfer learning exercises.Going beyond(II)
