@@ -43,3 +43,5 @@ Error loss functions scheme. Take care between clasification types
 Transfer learning exercises.Going beyond
 ## Day 13 [2019-07-11](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day13/README.md)
 Transfer learning exercises.Going beyond(II)
+## Day 14 [2019-07-13](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day14/README.md)
+Inference and validation exercises (I)
