@@ -51,4 +51,5 @@ Inference and validation exercises (II)
 Inference and validation exercises (III)
 ## Day 17 [2019-07-16](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day17/README.md)
 Inference and validation exercises (IV)
-
+## Day 18 [2019-07-17](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day18/README.md)
+Inference and validation exercises (V)
