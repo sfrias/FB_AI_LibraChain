@@ -65,5 +65,15 @@ Data Analysis & graphs with pandas/netx (II)
 Data Analysis & graphs with pandas/seaborn(I)
 ## Day 24 [2019-07-23](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day24/README.md)
 Data Analysis & graphs with panda/seaborn heat maps(II)
-## Day 25 [2019-07-23](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day25/README.md)
+## Day 25 [2019-07-24](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day25/README.md)
 Data Analysis & graphs with panda/seaborn(III)
+## Day 26 [2019-07-25](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day26/README.md)
+Optimization training(I). Iterations and epochs.
+## Day 27 [2019-07-26](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day27/README.md)
+Optimization training(II). Dropouts
+## Day 28 [2019-07-27](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day28/README.md)
+Optimization training(III). Traslations and rotations
+## Day 29 [2019-07-28](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day29/README.md)
+Optimization training(III)
+## Day 30 [2019-07-29](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day30/README.md)
+Optimization training(III)
