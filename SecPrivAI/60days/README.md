@@ -74,6 +74,6 @@ Optimization training(II). Dropouts
 ## Day 28 [2019-07-27](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day28/README.md)
 Optimization training(III). Traslations and rotations
 ## Day 29 [2019-07-28](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day29/README.md)
-Optimization training(III)
+Optimization training(III): linear regression
 ## Day 30 [2019-07-29](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day30/README.md)
-Optimization training(III)
+Optimization training(III): logistic regression
