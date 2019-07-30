@@ -79,3 +79,6 @@ Optimization training(IV): linear regression
 Optimization training(V): logistic regression
 ## Day 31 [2019-07-30](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day31/README.md)
 Optimization training(VI): logistic regression(II)
+## Day 32 [2019-07-31](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day32/README.md)
+Optimization training(VII): pretraining hyperparameters
+
