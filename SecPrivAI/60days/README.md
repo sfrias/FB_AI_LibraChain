@@ -77,3 +77,5 @@ Optimization training(III). Traslations and rotations
 Optimization training(IV): linear regression
 ## Day 30 [2019-07-29](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day30/README.md)
 Optimization training(V): logistic regression
+## Day 31 [2019-07-29](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day31/README.md)
+Optimization training(VI): logistic regression(II)
