@@ -1,1 +1,1 @@
-Optimization training(V): logistic regression(II)
+Optimization training(VI): logistic regression(II)
