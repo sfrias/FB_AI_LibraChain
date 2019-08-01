@@ -81,4 +81,5 @@ Optimization training(V): logistic regression
 Optimization training(VI): logistic regression(II)
 ## Day 32 [2019-07-31](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day32/README.md)
 Optimization training(VII): pretraining hyperparameters
-
+## Day 33 [2019-08-01](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day33/README.md)
+Optimization training(VIII): Delta and Epsilon.
