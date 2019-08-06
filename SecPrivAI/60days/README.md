@@ -87,3 +87,6 @@ Optimization training(VIII): Delta and Epsilon.
 Optimization training(IX): Evaluate epsilon after epoch
 ## Day 35 [2019-08-03](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day35/README.md)
 Histograms: rounding, bins and outliers(I)
+## Day 36 [2019-08-04](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day36/README.md)
+Histograms: rounding, bins and outliers(II)
+
