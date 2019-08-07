@@ -89,4 +89,7 @@ Optimization training(IX): Evaluate epsilon after epoch
 Histograms: rounding, bins and outliers(I)
 ## Day 36 [2019-08-04](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day36/README.md)
 Histograms: rounding, bins and outliers(II)
-
+## Day 37 [2019-08-05](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day37/README.md)
+Kernel Density Estimators: bins and overlapping(I)
+## Day 38 [2019-08-06](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day38/README.md)
+Kernel Density Estimators: bins and overlapping(II)
