@@ -111,3 +111,5 @@ visualizations: unsupervised grouping(III)
 Supervised grouping, manual segmentation(I)
 ## Day 47 [2019-08-15](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day47/README.md)
 supervised grouping, manual segmentation(II)
+## Day 48 [2019-08-16](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day48/README.md)
+Rectified Adam Experiments(I).
