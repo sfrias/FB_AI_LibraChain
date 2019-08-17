@@ -113,3 +113,5 @@ Supervised grouping, manual segmentation(I)
 supervised grouping, manual segmentation(II)
 ## Day 48 [2019-08-16](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day48/README.md)
 Rectified Adam Experiments(I).
+## Day 49 [2019-08-17](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day49/README.md)
+Rectified Adam Experiments(II).
