@@ -123,3 +123,5 @@ Rectified Adam Experiments(IV).
 Rectified Adam Experiments(V).
 ## Day 53 [2019-08-23](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day53/README.md)
 Complete and fullfil content on last week course(I)
+## Day 54 [2019-08-24](https://github.com/sfrias/FB_AI_LibraChain/blob/master/SecPrivAI/60days/Day54/README.md)
+Complete and fullfil content on last week course(II)
